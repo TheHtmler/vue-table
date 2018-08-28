@@ -1,0 +1,89 @@
+export default [{
+    name: 'Randy',
+    age: 28,
+    sex: 'male'
+}, {
+    name: 'Cindy',
+    age: 20,
+    sex: 'female'
+}, {
+    name: 'Bob',
+    age: 14,
+    sex: 'female'
+}, {
+    name: 'Leona',
+    age: 18,
+    sex: 'male'
+}, {
+    name: 'Sammy',
+    age: 22,
+    sex: 'female'
+}, {
+    name: 'Dandy',
+    age: 12,
+    sex: 'female'
+}, {
+    name: 'Dandy',
+    age: 12,
+    sex: 'female'
+}, {
+    name: 'Dandy',
+    age: 12,
+    sex: 'female'
+}, {
+    name: 'Sun',
+    age: 32,
+    sex: 'male'
+}, {
+    name: 'Daniel',
+    age: 25,
+    sex: 'female'
+}, {
+    name: 'San',
+    age: 11,
+    sex: 'female'
+}, {
+    name: 'Jobs',
+    age: 12,
+    sex: 'female'
+}, {
+    name: 'Lincon',
+    age: 22,
+    sex: 'female'
+}, {
+    name: 'Hade',
+    age: 15,
+    sex: 'male'
+}, {
+    name: 'Baggy',
+    age: 33,
+    sex: 'male'
+}, {
+    name: 'Rose',
+    age: 24,
+    sex: 'female'
+}, {
+    name: 'Tim',
+    age: 22,
+    sex: 'female'
+}, {
+    name: 'May',
+    age: 16,
+    sex: 'female'
+}, {
+    name: 'Lilly',
+    age: 36,
+    sex: 'male'
+}, {
+    name: 'Eric',
+    age: 44,
+    sex: 'female'
+}, {
+    name: 'Ada',
+    age: 36,
+    sex: 'female'
+}, {
+    name: 'Sellena',
+    age: 19,
+    sex: 'male'
+}]
